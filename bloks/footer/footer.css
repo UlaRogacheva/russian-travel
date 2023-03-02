@@ -3,13 +3,12 @@
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: flex-end;
-  padding-top: 92px;
-  padding-bottom: 24px;
+  padding: 92px 48px 24px;
 }
 
 @media screen and (max-width: 768px) {
   .footer {
-    padding-top: 88px;
+    padding: 88px 24px 24px;
   }
 }
 
@@ -21,3 +20,4 @@
     align-items: flex-start;
   }
 }
+
