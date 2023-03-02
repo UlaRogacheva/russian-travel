@@ -2,7 +2,7 @@
 @import url(../fonts/font.css);
 @import url(../bloks/page/page.css);
 @import url(../bloks/page/__container/page__container.css);
-@import url(../bloks/header/__content/header__content.css);
+@import url(../bloks/header-container/header-container.css);
 @import url(../bloks/header/header.css);
 @import url(../bloks/header/__links/header__links.css);
 @import url(../bloks/header/__link/header__link.css);
@@ -41,4 +41,4 @@
 @import url(../bloks/footer/footer.css);
 @import url(../bloks/footer/__link/footer__link.css);
 @import url(../bloks/footer/__links/footer__links.css);
-@import url(../bloks/footer/__copyright/footer__copyright.css);
+@import url(../bloks/footer/__copyright/footer__copyright.css); ;
