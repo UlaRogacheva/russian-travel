@@ -1,0 +1,25 @@
+.places__item {
+  padding-bottom: 80px;
+}
+
+.places__item:last-child {
+  padding-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .places__item {
+    padding-bottom: 73px;
+  }
+  .places__item:last-child {
+    padding-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__item {
+    padding-bottom: 50px;
+  }
+  .places__item:last-child {
+    padding-bottom: 66px;
+  }
+}
