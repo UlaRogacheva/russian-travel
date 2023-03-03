@@ -1,0 +1,19 @@
+.lead {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 56px 148px 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    padding: 48px 48px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

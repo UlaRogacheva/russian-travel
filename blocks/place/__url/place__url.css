@@ -1,0 +1,11 @@
+.place__url {
+  grid-area: url-heading;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 2px;
+  color: #aaaaaa;
+  margin-bottom: 12px;
+  margin-top: 0;
+  text-transform: uppercase
+}
