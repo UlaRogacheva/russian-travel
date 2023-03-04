@@ -4,6 +4,7 @@
   line-height: 96%;
   font-weight: normal;
   transition: 0.3s;
+  text-decoration: none;
 }
 
 .header__link:last-child {

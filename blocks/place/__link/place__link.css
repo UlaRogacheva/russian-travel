@@ -2,9 +2,9 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 122%;
-
   color: #ffffff;
   transition: 0.3s;
+  display: block;
 }
 
 .place__link:hover {
